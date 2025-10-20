@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Que3_FactorialUpTo_n {
+public class Question3_N_Factorial {
 
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);

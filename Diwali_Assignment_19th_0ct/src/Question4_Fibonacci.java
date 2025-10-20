@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Que3_Fibonacci {
+public class Question4_Fibonacci {
 
 	public static void main(String[] args) {
 	      Scanner sc = new Scanner(System.in);

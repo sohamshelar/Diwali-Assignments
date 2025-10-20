@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Que4_EvenOdd {
+public class Question5_EvenOddNum {
 
 	public static void main(String[] args) {
 		   Scanner sc = new Scanner(System.in);

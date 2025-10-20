@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day1CodingChallenge_LengthOfLogestString {
+public class Day1Challenge_LongestString {
 
 	public static void main(String[] args) {
 	       Scanner sc = new Scanner(System.in);

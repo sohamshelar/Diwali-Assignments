@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Que2_PrimeNoUpTo_N {
+public class Question2_N_PrimeNum {
 	
 		public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
